@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     ////////////////////////////////////////////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////////////////////////////
 
-    // adding sample data to the database (uncomment the call on line 28 to generate sample data)
+    // add sample data to the database (uncomment the call on line 28 to generate sample data)
 
     public void createSampleData(){
         createSampleProjects();
